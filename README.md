@@ -3,7 +3,6 @@
 <!--
 **AshishGapat/AshishGapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - previously web dev and data analysis @ software shop 
 - right now really getting into quant finance, market microstructure, and algorithmic trading in crypto
