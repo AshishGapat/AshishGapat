@@ -11,7 +11,7 @@
 - tweet [@ashishgpt2](https://twitter.com/ashishgpt2) - DMs are welcome!
 - looking to collaborate on products in web3 and research articles, like the one mentioned above. please get in touch!
 - also learning web3 analytics, solidity, EVM, finance, stats and more
-- looking for for junior quantitative research or trading roles
+- looking for junior quantitative research or trading roles
 
 thanks for stopping by!
 
