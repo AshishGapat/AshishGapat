@@ -9,9 +9,9 @@
 - working on an article about DeFi market microstructure and on getting better at quantitative analysis
 - crypto superuser and DeFi degen
 - tweet [@ashishgpt2](https://twitter.com/ashishgpt2) - DMs are welcome!
-- looking to collaborate on products in web3 and research articles, like the one mentioned above. please get in touch!
+- looking to collaborate on dapps and articles 
 - also learning web3 analytics, solidity, EVM, finance, stats and more
-- looking for junior quantitative research or trading roles
+- looking for quantitative research or trading roles
 
 thanks for stopping by!
 
