@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - Previously worked in web dev and data analysis at an IT services shop
-- Right now getting into smart contracts, quant finance, and algorithmic trading in crypto 
+- Currently on a gap year, working on software projects and teaching myself CS
 - Tweet [@ashishgpt2](https://twitter.com/ashishgpt2) - DMs are welcome
-- Looking to collaborate on dapps and blog posts
-- Also learning systems programming, cryptography, finance, stats, analytics and more
+- Happy to collaborate on projects and articles/essays
+- Also learning math, finance and more
 - Looking for SDE, research or trading roles
 
 thanks for stopping by!
